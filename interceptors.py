@@ -51,7 +51,7 @@ def log_time(f):
         result = f(*args, **kwargs)
         after = datetime.datetime.now()
 
-        print("Elapsed Time = {0}".format(after - before))
+        print('Elapsed Time = {0}'.format(after - before))
         return result
     return wrapper
 
