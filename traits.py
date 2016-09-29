@@ -1,8 +1,7 @@
 """
     Traits (Decorator factories and class decorators)
 
-    Author: Leandro Beretta <lea.bereta@gmail.com>
-
+    Author: Leandro Beretta <lea.beretta@gmail.com>
 """
 
 import logging

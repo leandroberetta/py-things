@@ -1,8 +1,7 @@
 """
     Interceptors (Decorators and class decorators)
 
-    Author: Leandro Beretta <lea.bereta@gmail.com>
-    
+    Author: Leandro Beretta <lea.beretta@gmail.com>
 """
 
 
